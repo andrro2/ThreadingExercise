@@ -19,6 +19,7 @@ namespace SimpleThreadingDemo
             thread1.Join();
             thread2.Join();
             Console.ReadLine();
+
         }
 
         public static void Counting()
